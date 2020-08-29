@@ -5,11 +5,9 @@
 
 === Large-scale Matching Algorithms for Robust Causal Inference:
 We develop matching models and algorithms to make robust causal inference decisions from large-scale observational studies. Ensuring robustness in causal inference alone produces a computationally intensive optimization problem. With the usage of big data, such an optimization problem becomes even more difficult to solve. We design scalable computational approaches that can handle large scale optimization problems emerging in robust causal inference, and help make policy decisions in Healthcare, Manufacturing, and Service industries by leveraging the power of big data.
-
 ~~~
 {}{img_left}{flow_chart.png}{flow_chart}{1000}
 ~~~
-
 === Healthcare Analytics:
 We analyze large-scale healthcare data by leveraging data mining and machine learning techniques to identify opportunities for improvement in healthcare. Our team has been involved in a number of healthcare analytics projects where multiple large-scale healthcare datasets are being used: HCUP Nationwide Readmission Database, Massachusetts and New Hampshire All Payer Claim Database and State of California Hospital Discharge Database.
 
@@ -20,11 +18,9 @@ The opioid overdose epidemic­­­­—a national public health emergency—take
 Our research indicates that currently, physicians lack effective prescribing tools to help guide the informed and judicious prescribing of opioid analgesics. Moreover, many patients get prescribed with too many opioids of which they don’t use up completely, and surplus drugs are not disposed of properly. This facilitates the diversion of prescription opioids to secondary users and black markets.
 
 We, in particular, leverage state-of-the-art AI, statistical analysis, and operations research techniques to address a multitude of problems centering on the opioid crisis. The focal points of our research are depicted in the following diagram:
-
 ~~~
-{}{img_left}{opioid_flow.jpg}{flow_chart}{800}
+{}{img_left}{opioid_flow.jpg}{flow_chart}{700}
 ~~~
-
 *Our current projects are as follows:*
 
 - Leveraging Artificial Intelligence (AI) to predict the risk of opioid use disorder among commercially insured opioid-naive patients. 
@@ -43,7 +39,6 @@ The essential idea is to harness the potential of cutting-edge data-mining and m
 ~~~
 {}{img_left}{Readmision_framework_1.jpg}{readimission_framework}{800}
 ~~~
-
 === Methods for Large-scale Optimization:
 
 In the era of large-scale data, one of the key challenges is the design of efficient optimization techniques that can adapt to vast amounts of data. In recent times, there has been a wave in the demand from exponents, in fields such as signal processing, computer vision, artificial intelligence, machine learning, and data mining, for methods that are able to cope with the challenge of big data.  We are working on developing efficient and scalable algorithms for solving large-scale Optimization problems arising from decision-makers in real-world problems.
