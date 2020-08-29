@@ -6,7 +6,7 @@
 === Large-scale Matching Algorithms for Robust Causal Inference:
 We develop matching models and algorithms to make robust causal inference decisions from large-scale observational studies. Ensuring robustness in causal inference alone produces a computationally intensive optimization problem. With the usage of big data, such an optimization problem becomes even more difficult to solve. We design scalable computational approaches that can handle large scale optimization problems emerging in robust causal inference, and help make policy decisions in Healthcare, Manufacturing, and Service industries by leveraging the power of big data.
 ~~~
-{}{img_left}{flow_chart.png}{flow_chart}{1000}
+{}{img_left}{flow_chart.png}{Flow_Chart}{900}
 ~~~
 === Healthcare Analytics:
 We analyze large-scale healthcare data by leveraging data mining and machine learning techniques to identify opportunities for improvement in healthcare. Our team has been involved in a number of healthcare analytics projects where multiple large-scale healthcare datasets are being used: HCUP Nationwide Readmission Database, Massachusetts and New Hampshire All Payer Claim Database and State of California Hospital Discharge Database.
@@ -19,7 +19,7 @@ Our research indicates that currently, physicians lack effective prescribing too
 
 We, in particular, leverage state-of-the-art AI, statistical analysis, and operations research techniques to address a multitude of problems centering on the opioid crisis. The focal points of our research are depicted in the following diagram:
 ~~~
-{}{img_left}{opioid_flow.jpg}{flow_chart}{700}
+{}{img_left}{opioid_flow.jpg}{Opioid_Flow}{400}
 ~~~
 *Our current projects are as follows:*
 
@@ -37,7 +37,7 @@ Our research leveraging analytics has the following two aims:
 
 The essential idea is to harness the potential of cutting-edge data-mining and machine learning techniques to facilitate the use of big-data analytics in reducing preventable hospital readmission. We use several state and nationally representative sample of hospital discharge database to investigate the patterns and determinants of non-index hospital readmission. The objective is to assess the effect of hospital readmission reduction program (HRRP) on the increase in such non-index readmission among patients with Congestive Heart Failure (CHF), Acute Myocardial Infraction (AMI) and Pneumonia (PNE), which were the initial condition included in the HRRP. Our research also informs the necessity of customized and intensive intervention plans for SMI patients to reduce their healthcare resource utilizations in post-surgical periods after 30-day of initial discharge.
 ~~~
-{}{img_left}{Readmision_framework_1.jpg}{readimission_framework}{800}
+{}{img_left}{Readmision_framework_1.jpg}{Readimission_Framework}{750}
 ~~~
 === Methods for Large-scale Optimization:
 
