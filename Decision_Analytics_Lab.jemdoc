@@ -9,7 +9,7 @@ We develop matching models and algorithms to make robust causal inference decisi
 {}{img_left}{flow_chart.png}{Flow_Chart}{900}
 ~~~
 === Healthcare Analytics:
-We analyze large-scale healthcare data by leveraging data mining and machine learning techniques to identify opportunities for improvement in healthcare. Our team has been involved in a number of healthcare analytics projects where multiple large-scale healthcare datasets are being used: HCUP Nationwide Readmission Database, Massachusetts and New Hampshire All Payer Claim Database and State of California Hospital Discharge Database.
+We analyze large-scale healthcare data by leveraging data mining and machine learning techniques to identify opportunities for improvement in healthcare. Our team has been involved in a number of healthcare analytics projects where multiple large-scale healthcare datasets are being used: [https://www.hcup-us.ahrq.gov/db/nation/nrd/nrddbdocumentation.jsp HCUP Nationwide Readmission Database], [https://www.apcdcouncil.org/state-data-access Massachusetts and New Hampshire All Payer Claim Database] and [https://oshpd.ca.gov/data-and-reports/healthcare-utilization/inpatient/ State of California Hospital Discharge Database].
 
 *Leveraging AI and OR to address the opioid addiction epidemic*
 
