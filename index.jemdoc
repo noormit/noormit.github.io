@@ -18,13 +18,16 @@ Email:[mnalam@neu.edu]\n
 ~~~
 
 == Bio:
-Md Noor E Alam is an Assistant Professor in the Department of Mechanical & Industrial Engineering and director of Decision Analytics Lab at Northeastern University. 
-Dr. Alam is also a faculty associate at [https://web.northeastern.edu/chphr/ Centre for Health Policy and Healthcare Research] and an aﬃliated faculty both at [https://globalresilience.northeastern.edu/ Global Resilience Institute], 
-and [https://cssh.northeastern.edu/policyschool/ School of Public Policy and Urban Affairs]. Prior to his current role, he was a Postdoctoral Research Fellow in Sloan School of Management at Massachusetts Institute of Technology. He has completed his PhD in 
-Engineering Management in the Department of Mechanical Engineering at the University of Alberta (UofA) in 2013. His current research interests lie in the intersection of operations research, artificial intelligence and big-data analytics, 
-particularly as applied to healthcare, manufacturing systems, energy and supply chain.  He has served as a board of director for IISE Logistics and Supply Chain division in the year 2018 to 2020.
+Muhammad Noor E Alam is an Assistant Professor in the Department of Mechanical & Industrial Engineering and director of Decision Analytics Lab at Northeastern University. 
+Dr. Alam also holds a faculty associate position at [https://web.northeastern.edu/chphr/ Centre for Health Policy and Healthcare Research] and an aﬃliated faculty position both at [https://globalresilience.northeastern.edu/ Global Resilience Institute], 
+and [https://cssh.northeastern.edu/policyschool/ School of Public Policy and Urban Affairs]. Prior joining to Northeastern, Dr. Alam was a Postdoctoral Research Fellow in Sloan School of Management at Massachusetts Institute of Technology. He has completed his PhD in 
+Engineering Management in the Department of Mechanical Engineering at the University of Alberta (UofA), and received a B.Sc. and M.Sc. in Industrial and Production
+Engineering from Bangladesh University of
+Engineering & Technology (BUET). Before coming to UoA, Dr. Alam served as a faculty member in the Department of Industrial and Production Engineering at 
+BUET. Most recently, he served as a board of director for Logistics and Supply Chain division of Institute of Industrial and Systems Engineers (IISE) in the year 2018 to 2020.
 \n
 
+== Research:
 Prof. Alam's research aims to develop computationally tractable methods to solve complex decision problems. 
 It uses interdisciplinary approaches, which lie in the intersection of *Large Scale Optimization* and *Artificial Intelligence (AI)*. 
 The goal is to leverage the strengths of both disciplines to ensure interpretable, robust and reliable decisions. 
@@ -35,4 +38,5 @@ Key areas of focus:
 - Efficient discrete optimization based robust matching algorithms for Causal Inference
 - Scalable optimization techniques for solving large-scale decision problems
 - Pragmatic decision-making framework to handle inherent uncertainty and complexity in multi-criteria decision-making process
-- Bigdata analytics framework to solve public health problems 
+- Bigdata analytics framework to solve public health problems
+- Decision making framework for variable renewable energy generators 
