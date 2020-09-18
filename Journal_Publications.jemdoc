@@ -14,7 +14,8 @@
 - Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/12/5237.pdf Robust Nonparametric Testing for Causal Inference in Observational Studies]”, working paper, 2015.
 
 === Large-Scale Optimization:
-- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/2002.07321 On Generalization and Acceleration of Randomized Projection Methods for Linear Feasibility Problems]”, working paper, 2020.
+- M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/2009.08251 Heavy Ball Momentum Induced Sampling Kaczmarz Motzkin Methods for Linear Feasibility Problems]”, working paper, 2020.
+- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/2002.07321 Sampling Kaczmarz Motzkin Method for Linear Feasibility Problems: Generalization & Acceleration]”, working paper, 2020.
 - M. S. Morshed, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam, “[https://arxiv.org/abs/1805.00591 A Primal-Dual Interior Point Method for a Novel Type-2 Second Order Cone Optimization Problem]”, working paper, 2020.
 - M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/1902.03502 Accelerated Sampling Kaczmarz Motzkin Algorithm for Linear Feasibility Problem]”, Journal of Global Optimization, 2019. doi.org/10.1007/s10898-019-00850-6
 - S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/1804.07373 Generalized Aﬃne Scaling Algorithms for Linear Programming Problems]”, Computers & Operations Research, 2019. doi.org/10.1016/j.cor.2019.104807
