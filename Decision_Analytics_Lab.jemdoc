@@ -61,3 +61,31 @@ Towards building the decision framework for the current problem, we first built 
 === Intelligent Decision Making:
 
 We develop possibility theory based artificial intelligence (AI) techniques for making decisions when the decision-relevant information is imprecise in nature due to the inherent uncertainty, and when multi-modal conflicting attributes and multiple subject expert’s opinion altogether add further complexity in the decision-making process. Some of our work in this domain mainly inform the development of Decision Support System (DSS) that can handle Big-data driven graphical information and quantify epistemic uncertainty. We also developed a conflict aggregation algorithm that can facilitate the decision-making process under the participation of multiple subject experts who usually possess conflicting opinions regarding the evaluation of an alternative subject to attributes considered in the decision-making process.
+
+=== Decision Making Framework for Renewable Energy:
+
+Variable renewable energy generators (VRGs) are beginning to have a more prominent role in the
+power market, most predominantly, wind energy, which since 2008 to date, has formed 64-77%
+of the total year utility from renewable sources. In 2018, the energy produced from wind
+energy alone in the US amounted to 94 GW. Currently wind energy is available nationwide,
+and is expected to be a sustainable source of renewable energy in all 50 states by 2050.
+Moreover, distributed wind is also exported outside of the U.S. with 70 MW, representing a value
+of $400 million being exported since 2012.
+
+However, one of the drawbacks with VRGs is due to their variable nature, there is a lot of
+uncertainty associated with their energy production. Energy production is dependent on
+environmental factors that makes forecasting and decision making difficult. As such, it is
+imperative to have the right tools in place to be able to not only forecast energy production, but
+also have the right systems to ensure a robust framework that will not be exposed to dips or outages.
+Energy producers suffer financial consequences for deviating from estimates made as they are
+penalized for underestimating production, and not compensated for over-production.
+Consequently, accurate forecasting is critical to the profitability of a farm. As such, the
+Department of Energy has invested considerably in projects aimed at improving wind power
+forecasts. However, there is still a myriad of other factors that need to be considered by the
+plant when submitting commitments, such as market prices and regulation requirements.
+
+To both optimize the production of VRGs, as well as mitigate risks, there exists a need for
+the development of decision-making frameworks that combine with the Department of Energy’s
+advanced forecasting capabilities and allow for more informed decision making. The objective of
+our research is to expand on current literature by creating robust data driven decision-making frameworks that include multiple aspects of the energy market and allows for decisions to be updated
+as more information is made available.
