@@ -5,11 +5,9 @@
 
 === Robust Matching Algorithms:
 - Md Saiful Islam, M. S. Morshed, Gary Young and Md. Noor-E-Alam, “[https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0223360&type=printable Robust policy evaluation from large-scale observational studies]”, PLoS ONE 14(10), 2019: e0223360. https://doi.org/10.1371/journal.pone.0223360
-
-        - - “[https://github.com/saiful-NEU/Robust-causal-inference---McNemar-s-Test Codes]”
+-- “[https://github.com/saiful-NEU/Robust-causal-inference---McNemar-s-Test Codes]”
 - Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://arxiv.org/pdf/1812.02227.pdf Hypothesis Tests That Are Robust To Choice of Matching Method]”, working paper, 2018.
-
-        - - “[https://github.com/marcomorucci/robust-tests Codes]”
+-- “[https://github.com/marcomorucci/robust-tests Codes]”
 === Supply chain and Logistics:
 - Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“Robust Two Echelon Vehicle and Drone Routing for Post Disaster Humanitarian Operations”, Working paper, 2020. ([https://arxiv.org/abs/2001.06456 Arxiv Preprint]) ([https://zenodo.org/record/3610581 Online Data])
 
