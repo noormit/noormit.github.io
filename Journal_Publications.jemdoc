@@ -11,7 +11,7 @@
 === Robust Matching Algorithms:
 - Md Saiful Islam, M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.12130.pdf  Algorithms for Solving Non-linear Binary Optimization Problems in Robust Causal Inference]”, working paper, 2020.
 - Md Saiful Islam, M. S. Morshed, Gary Young and Md. Noor-E-Alam, “[https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0223360&type=printable Robust policy evaluation from large-scale observational studies]”, PLoS ONE 14(10), 2019: e0223360. https://doi.org/10.1371/journal.pone.0223360
-- Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://arxiv.org/pdf/1812.02227.pdf Hypothesis Tests That Are Robust To Choice of Matching Method]”, working paper, 2018.
+- Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://arxiv.org/pdf/1812.02227.pdf A Robust Approach to Quantifying Uncertainty in Matching Problems of Causal Inference]”, working paper, 2018.
 - Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/12/5237.pdf Robust Nonparametric Testing for Causal Inference in Observational Studies]”, working paper, 2015.
 
 === Large-Scale Optimization:
