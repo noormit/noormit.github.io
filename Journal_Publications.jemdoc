@@ -5,7 +5,8 @@
 
 === Addressing Opioid Epidemic:
 - Md Mahmudul Hasan, Md. Noor-E-Alam, Prathamesh Mohite, Md Saiful Isalm, Alicia Sasser Modestino, Alyssa Peckham, Leonard D. Young, and Gary J. Young, “Patterns of Patient Discontinuation from Buprenorphine/Naloxone Treatment for Opioid Use Disorder: A Study of a Commercially Insured Population in Massachusetts”, Journal of Substance Abuse Treatment (in press), 2021.
-- Md Mahmudul Hasan, Md. Noor-E-Alam, Mehul R. Patel, Alicia Sasser Modestino, Leon Sanchez and Gary Young, “[https://arxiv.org/abs/1904.03524 A Big Data Analytics Framework to Predict the Risk of Opioid Use Disorder]”, working paper, 2019.
+- Md Mahmudul Hasan, Gary J. Young, Prathamesh Mohite, Jiesheng Shi, Leonard Young, Scott G. Weiner, Md. Noor-E-Alam, “Predicting Patients Discontinuation from Opioid Use Disorder Treatment: A Two-Stage Clinical Decision Support System Using Machine Learning”, working paper, 2021. 
+- Md Mahmudul Hasan, Mehul R. Patel, Alicia Sasser Modestino, Leon Sanchez, Gary Young, Md. Noor-E-Alam, “[https://arxiv.org/abs/1904.03524 A Big Data Analytics Framework to Predict the Risk of Opioid Use Disorder]”, working paper, 2021.
 - Richard Paulsen, Alicia Sasser Modestino, Md Mahmudul Hasan, Md. Noor-E-Alam, Leonard Young and Gary Young, “[https://www.tandfonline.com/doi/abs/10.1080/00952990.2019.1674863?journalCode=iada20 Patterns of Buprenorphine/Naloxone Prescribing:  An Analysis of Claims Data from Massachusetts]”, The American Journal of Drug and Alcohol Abuse, 2019. doi.org/10.1080/00952990.2019.1674863
 
 === Robust Matching Algorithms:
@@ -14,11 +15,16 @@
 - Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://arxiv.org/pdf/1812.02227.pdf A Robust Approach to Quantifying Uncertainty in Matching Problems of Causal Inference]”, working paper, 2018.
 - Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/12/5237.pdf Robust Nonparametric Testing for Causal Inference in Observational Studies]”, working paper, 2015.
 
+=== Wind Energy Planning:
+- Razan A. H. Al-Lawati, Jose L. Crespo-Vazquez, Tasnim Ibn Faiz, Xin Fang and Md. Noor-E-Alam, “[https://arxiv.org/ftp/arxiv/papers/2012/2012.13459.pdf A Two-Stage Stochastic Optimization Approach to Aid in Decision Making Under Uncertainty for a Variable Resource Generator Participating in a Sequential Energy Market]”, in press, 2021.
+- Jose L. Crespo-Vazquez, C. Carrillo, E. Diaz-Dorado, Jose A. Martinez Lorenzo and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fauthors.elsevier.com%2Fa%2F1Xr2015eiesNAE&sa=D&sntz=1&usg=AFQjCNFgLDnyYHZeWaBhzFlju9JPio8vTQ A Machine Learning Based Stochastic Optimization Framework for a Wind and Storage Power Plant Participating in Energy Pool Market]”, Applied Energy, Vol. 232, pp. 341-357, 2018.
+- Jose L. Crespo-Vazquez, C. Carrillo, E. Lorenzo Diaz-Dorado, Jose A. Martinez and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F85n9zxuhv2tfd7h%2FEvaluation%2520of%2520the%2520Stochastic%2520Approach%2520_Energy_preprint.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGeod4CcoJjsjtS21yK0YuVyg4yEA Evaluation of a Data Driven Stochastic Approach to Optimize the Participation of a Wind and Storage Power Plant in Day-Ahead and Reserve Markets]”, Energy, Vol. 156, pp. 278-291, 2018.
+
 === Large-Scale Optimization:
 - M. S. Morshed, Sabbir Ahmad and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.13087.pdf Stochastic Steepest Descent Methods for Linear Systems: Greedy Sampling & Momentum]”, working paper, 2020.
 - M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.02913.pdf Sketch & Project Methods for Linear Feasibility Problems: Greedy Sampling & Momentum]”, working paper, 2020.
 - M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/2009.08251 Heavy Ball Momentum Induced Sampling Kaczmarz Motzkin Methods for Linear Feasibility Problems]”, working paper, 2020.
-- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/2002.07321 Sampling Kaczmarz Motzkin Method for Linear Feasibility Problems: Generalization & Acceleration]”, working paper, 2020.
+- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/2002.07321 Sampling Kaczmarz Motzkin Method for Linear Feasibility Problems: Generalization & Acceleration]”, Mathematical Programming, in press, 2021.
 - M. S. Morshed, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam, “[https://arxiv.org/abs/1805.00591 A Primal-Dual Interior Point Method for a Novel Type-2 Second Order Cone Optimization Problem]”, working paper, 2020.
 - M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/1902.03502 Accelerated Sampling Kaczmarz Motzkin Algorithm for Linear Feasibility Problem]”, Journal of Global Optimization, 2019. doi.org/10.1007/s10898-019-00850-6
 - S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/1804.07373 Generalized Aﬃne Scaling Algorithms for Linear Programming Problems]”, Computers & Operations Research, 2019. doi.org/10.1016/j.cor.2019.104807
@@ -48,11 +54,6 @@
 - Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“Robust Two Echelon Vehicle and Drone Routing for Post Disaster Humanitarian Operations”, Working paper, 2020. ([https://arxiv.org/abs/2001.06456 Arxiv Preprint]) ([https://zenodo.org/record/3610581 Online Data])
 - Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“[https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1806.00831&sa=D&sntz=1&usg=AFQjCNHoP3rHy1vouhRfG3aJZJBCgVZGLg A Column Generation Algorithm for Vehicle Scheduling and Routing Problems]”, Computers and Industrial Engineering, Vol. 130, pp. 222-236, 2019.
 - Tasnim Ibn Faiz and Md. Noor-E-Alam,“[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fj4cfzy5f9x4cfl7%2FModels%2520for%2520Data%2520Center_Tasnim_Noor_Pre_Print.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNFJNEG0R0iaA2_468qnnwm-q1ydeg Data Center Supply Chain Conﬁguration Design: A Two-Stage Decision Approach]”, Socio-Economic Planning Sciences, [https://www.sciencedirect.com/science/article/abs/pii/S0038012117302501 org/10.1016/j.seps.2018.07.008], 2018.
-
-=== Wind Energy Planning:
-- Razan A. H. Al-Lawati, Jose L. Crespo-Vazquez, Tasnim Ibn Faiz, Xin Fang and Md. Noor-E-Alam, “[https://arxiv.org/ftp/arxiv/papers/2012/2012.13459.pdf A Two-Stage Stochastic Optimization Approach to Aid in Decision Making Under Uncertainty for a Variable Resource Generator Participating in a Sequential Energy Market]”, working paper, 2020.
-- Jose L. Crespo-Vazquez, C. Carrillo, E. Diaz-Dorado, Jose A. Martinez Lorenzo and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fauthors.elsevier.com%2Fa%2F1Xr2015eiesNAE&sa=D&sntz=1&usg=AFQjCNFgLDnyYHZeWaBhzFlju9JPio8vTQ A Machine Learning Based Stochastic Optimization Framework for a Wind and Storage Power Plant Participating in Energy Pool Market]”, Applied Energy, Vol. 232, pp. 341-357, 2018.
-- Jose L. Crespo-Vazquez, C. Carrillo, E. Lorenzo Diaz-Dorado, Jose A. Martinez and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F85n9zxuhv2tfd7h%2FEvaluation%2520of%2520the%2520Stochastic%2520Approach%2520_Energy_preprint.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGeod4CcoJjsjtS21yK0YuVyg4yEA Evaluation of a Data Driven Stochastic Approach to Optimize the Participation of a Wind and Storage Power Plant in Day-Ahead and Reserve Markets]”, Energy, Vol. 156, pp. 278-291, 2018.
 
 === Maintenance, Scheduling, Network Optimization and Investment Decisions:
 - Mengkai Xu, Xiaoning Jin, Sagar Kamarthi and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fx8p24pssnhd8qkx%2FCBM_Interdependency_preprint.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNHXjN3EVW_r04RNlugfIiGrS-9rpA A Failure-Dependency Modeling and State Discretization Approach for Condition-Based Maintenance Optimization of Multi-Component Systems]”, Journal of Manufacturing Systems, Vol. 47, pp. 141-152, 2018.
