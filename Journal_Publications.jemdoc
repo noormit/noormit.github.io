@@ -21,13 +21,13 @@
 - Jose L. Crespo-Vazquez, C. Carrillo, E. Lorenzo Diaz-Dorado, Jose A. Martinez and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F85n9zxuhv2tfd7h%2FEvaluation%2520of%2520the%2520Stochastic%2520Approach%2520_Energy_preprint.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGeod4CcoJjsjtS21yK0YuVyg4yEA Evaluation of a Data Driven Stochastic Approach to Optimize the Participation of a Wind and Storage Power Plant in Day-Ahead and Reserve Markets]”, Energy, Vol. 156, pp. 278-291, 2018.
 
 === Large-Scale Optimization:
+- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/2002.07321 Sampling Kaczmarz Motzkin Method for Linear Feasibility Problems: Generalization & Acceleration]”, Mathematical Programming, 2021. https://doi.org/10.1007/s10107-021-01649-8
+- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/1902.03502 Accelerated Sampling Kaczmarz Motzkin Algorithm for Linear Feasibility Problem]”, Journal of Global Optimization, 2019. doi.org/10.1007/s10898-019-00850-6
+- M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/1804.07373 Generalized Aﬃne Scaling Algorithms for Linear Programming Problems]”, Computers & Operations Research, 2019. doi.org/10.1016/j.cor.2019.104807
+- M. S. Morshed, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam, “[https://arxiv.org/abs/1805.00591 A Primal-Dual Interior Point Method for a Novel Type-2 Second Order Cone Optimization Problem]”, working paper, 2020.
 - M. S. Morshed, Sabbir Ahmad and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.13087.pdf Stochastic Steepest Descent Methods for Linear Systems: Greedy Sampling & Momentum]”, working paper, 2020.
 - M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.02913.pdf Sketch & Project Methods for Linear Feasibility Problems: Greedy Sampling & Momentum]”, working paper, 2020.
 - M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/2009.08251 Heavy Ball Momentum Induced Sampling Kaczmarz Motzkin Methods for Linear Feasibility Problems]”, working paper, 2020.
-- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/2002.07321 Sampling Kaczmarz Motzkin Method for Linear Feasibility Problems: Generalization & Acceleration]”, Mathematical Programming, in press, 2021.
-- M. S. Morshed, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam, “[https://arxiv.org/abs/1805.00591 A Primal-Dual Interior Point Method for a Novel Type-2 Second Order Cone Optimization Problem]”, working paper, 2020.
-- M. S. Morshed, Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/abs/1902.03502 Accelerated Sampling Kaczmarz Motzkin Algorithm for Linear Feasibility Problem]”, Journal of Global Optimization, 2019. doi.org/10.1007/s10898-019-00850-6
-- S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/abs/1804.07373 Generalized Aﬃne Scaling Algorithms for Linear Programming Problems]”, Computers & Operations Research, 2019. doi.org/10.1016/j.cor.2019.104807
 
 === Location Analysis:
 - Ruilin Ouyang, Tasnim Ibn Faiz and Md. Noor-E-Alam, “[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fidilcsp3c5xmxzz%2FLongTerm_Facility_Ruilin_Tasnim_Noor_IJOR_Pre_Print.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNGMWnCO3fMFoL2ZfPPHdmLUfQgrjQ Location-Allocation Models for Healthcare Facilities with Long Term Demand]”, International Journal of Operational Research, Vol. 38, N3, pp. 395-320, 2020.
