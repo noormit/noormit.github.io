@@ -5,13 +5,22 @@
 
 
 === Addressing Opioid Epidemic:
-- Md Mahmudul Hasan, Gary J. Young, Jiesheng Shi, Prathamesh Mohite, Leonard Young, Scott G. Weiner, Md. Noor-E-Alam, “[https://trebuchet.public.springernature.app/get_content/21a1ca38-947d-46a0-97d0-9a79c665845c Predicting Patients Discontinuation from Opioid Use Disorder Treatment: A Two-Stage Clinical Decision Support System Using Machine Learning]”, BMC Medical Informatics and Decision Making, 2021.
+- Md Mahmudul Hasan, Gary J. Young, Jiesheng Shi, Prathamesh Mohite, Leonard Young, Scott G. Weiner, Md. Noor-E-Alam, “[https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01692-7 Predicting Patients Discontinuation from Opioid Use Disorder Treatment: A Two-Stage Clinical Decision Support System Using Machine Learning]”, BMC Medical Informatics and Decision Making, 2021.
 - Md Mahmudul Hasan, Gary Young, Mehul R. Patel, Alicia Sasser Modestino, Leon Sanchez, Md. Noor-E-Alam, “[https://www.sciencedirect.com/science/article/pii/S2666827021000724?via%3Dihub A Machine Learning Framework to Predict the Risk of Opioid Use Disorder]”,
 Machine Learning with Applications, 2021.
 - Md Mahmudul Hasan, Md. Noor-E-Alam, Prathamesh Mohite, Md Saiful Islam, Alicia Sasser Modestino, Alyssa Peckham, Leonard D. Young, and Gary J. Young, “[https://www.sciencedirect.com/science/article/pii/S0740547221001422?dgcid=author Patterns of Patient Discontinuation from Buprenorphine/Naloxone Treatment for Opioid Use Disorder: A Study of a Commercially Insured Population in Massachusetts]”, Journal of Substance Abuse Treatment, Vol. 131, December 2021, 108416.
 - Md Mahmudul Hasan, Md. Noor-E-Alam, Jiesheng Shi, Leonard Young, Gary J. Young, Long-term Patient Outcomes from Buprenorphine/Naloxone Treatment for Opioid Use Disorder:
   A Retrospective Analysis for a Commercially Insured Population", working paper, 2021.
 - Richard Paulsen, Alicia Sasser Modestino, Md Mahmudul Hasan, Md. Noor-E-Alam, Leonard Young and Gary Young, “[https://www.tandfonline.com/doi/abs/10.1080/00952990.2019.1674863?journalCode=iada20 Patterns of Buprenorphine/Naloxone Prescribing:  An Analysis of Claims Data from Massachusetts]”, The American Journal of Drug and Alcohol Abuse, 2019. doi.org/10.1080/00952990.2019.1674863
+
+=== Robust Matching Algorithms:
+- Md Saiful Islam, M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.12130.pdf A Computational Framework for Solving Nonlinear Binary
+  OptimizationProblems in Robust Causal Inference]”, working paper, 2020.
+- Md Saiful Islam, M. S. Morshed, Gary Young and Md. Noor-E-Alam, “[https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0223360&type=printable Robust policy evaluation from large-scale observational studies]”, PLoS ONE 14(10), 2019: e0223360. https://doi.org/10.1371/journal.pone.0223360
+- Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://arxiv.org/pdf/1812.02227.pdf A Robust Approach to Quantifying Uncertainty in Matching Problems of Causal Inference]”, working paper, 2018.
+- Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/12/5237.pdf Robust Nonparametric Testing for Causal Inference in Observational Studies]”, working paper, 2015.
+- Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/03/4821.pdf Robust Testing for Causal Inference in Observational
+Studies]”, working paper, 2015.
 
 === Wind Energy Planning:
 - Razan A. H. Al-Lawati, Jose L. Crespo-Vazquez, Tasnim Ibn Faiz, Xin Fang and Md. Noor-E-Alam, “[https://arxiv.org/ftp/arxiv/papers/2012/2012.13459.pdf A Two-Stage Stochastic Optimization Approach to Aid in Decision Making Under Uncertainty for a Variable Resource Generator Participating in a Sequential Energy Market]”, Applied Energy, Applied Energy, Vol. 252, 15 June 2021, 116882.
