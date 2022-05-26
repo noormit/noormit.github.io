@@ -16,9 +16,9 @@ Email: mnalam[[at]]neu[[dot]]edu\n
 ~~~
 
 == Bio:
-Muhammad Noor E Alam is an Assistant Professor in the Department of Mechanical & Industrial Engineering and director of the Decision Analytics Lab at Northeastern University. 
-Dr. Alam also holds a faculty associate position at [https://web.northeastern.edu/chphr/ Centre for Health Policy and Healthcare Research] and an aﬃliated faculty position at both the [https://globalresilience.northeastern.edu/ Global Resilience Institute], 
-and [https://cssh.northeastern.edu/policyschool/ the School of Public Policy and Urban Affairs]. Prior joining to Northeastern, Dr. Alam was a Postdoctoral Research Fellow in Sloan School of Management at Massachusetts Institute of Technology. He has completed his PhD in 
+Muhammad Noor E Alam is an Assistant Professor in the Department of Mechanical & Industrial Engineering and Director of the Decision Analytics Lab at Northeastern University. 
+Dr. Alam also holds a faculty associate position at [https://web.northeastern.edu/chphr/ the Centre for Health Policy and Healthcare Research] and an aﬃliated faculty position at both the [https://globalresilience.northeastern.edu/ Global Resilience Institute], 
+and [https://cssh.northeastern.edu/policyschool/ the School of Public Policy and Urban Affairs]. Prior joining to Northeastern, Dr. Alam was a Postdoctoral Research Fellow in Sloan School of Management at the Massachusetts Institute of Technology. He has completed his PhD in 
 Engineering Management in the Department of Mechanical Engineering at the University of Alberta (UofA), and received a B.Sc. and M.Sc. in Industrial and Production
 Engineering from Bangladesh University of
 Engineering & Technology (BUET). Before coming to UoA, Dr. Alam served as a faculty member in the Department of Industrial and Production Engineering at 
@@ -27,8 +27,8 @@ BUET. Dr. Alam is a recipient of a National Science Foundation Faculty Early Car
 
 == Research:
 Prof. Alam's research aims to develop computationally tractable techniques to solve complex decision problems. 
-His work uses interdisciplinary methods, which include *Operations Research*, *Large Scale Optimization*, *Data Analytics*, and *Machine Learning/Artificial Intelligence (AI)*. 
-The goal is to leverage the strengths of these disciplines to ensure interpretable, robust and reliable decisions. 
+His work uses interdisciplinary methods, which include *Operations Research*, *Large Scale Optimization*, *Data Analytics*, *Causal Inference* and *Machine Learning/Artificial Intelligence (AI)*. 
+The goal is to leverage the strengths of these disciplines to ensure interpretable, fair, robust and reliable decisions. 
 These techniques are applied to solve high stake societal problems in healthcare, energy and humanitarian logistics.
 
 Key areas of focus:
@@ -37,4 +37,4 @@ Key areas of focus:
 - Scalable optimization techniques for solving large-scale decision problems
 - Pragmatic decision-making framework to handle inherent uncertainty and complexity in the multi-criteria decision-making process
 - Bigdata analytics framework to solve public health problems
-- Decision making framework for variable renewable energy generators 
+- Optimization framework for variable renewable energy generators 
