@@ -26,15 +26,17 @@ BUET. Dr. Alam is a recipient of a National Science Foundation Faculty Early Car
 \n
 
 == Research:
-Prof. Alam's research aims to develop computationally tractable techniques to solve complex decision problems. 
+Prof. Alam's research aims to develop decision analytics frameworks with innovative computational approaches to solve critical societal problems.
 His work uses interdisciplinary methods, which include *Operations Research*, *Large Scale Optimization*, *Data Analytics*, *Causal Inference* and *Machine Learning/Artificial Intelligence (AI)*. 
 The goal is to leverage the strengths of these disciplines to ensure interpretable, fair, robust and reliable decisions. 
 These techniques are applied to solve high stake societal problems in healthcare, energy and humanitarian logistics.
 
-Key areas of focus:
+Key focus areas are:
 
-- Efficient discrete optimization based robust matching algorithms for Causal Inference
-- Scalable optimization techniques for solving large-scale decision problems
-- Pragmatic decision-making framework to handle inherent uncertainty and complexity in the multi-criteria decision-making process
-- Bigdata analytics framework to solve public health problems
-- Optimization framework for variable renewable energy generators 
+- Robust Causal Inference for Large-Scale Observational Studies
+- Stochastic Optimization Framework with Machine Learning
+- AI/OR to Address Public Health Problems Such As Opioid Epidemic Crisis
+- Optimizing Humanitarian Logistics Operations
+- Computational Framework for Information Fusion Optimization to Ensure Consensus
+- Scalable Optimization Techniques for Solving Large-Scale Decision Problems
+- Pragmatic Decision-Making Framework to Handle Inherent Uncertainty and Complexity in the Multi-Criteria Decision-Making Process
