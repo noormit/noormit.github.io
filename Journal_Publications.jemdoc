@@ -15,7 +15,7 @@ Machine Learning with Applications, 2021.
 - Md Mahmudul Hasan, Md. Noor-E-Alam, Prathamesh Mohite, Md Saiful Islam, Alicia Sasser Modestino, Alyssa Peckham, Leonard D. Young, and Gary J. Young, “[https://www.sciencedirect.com/science/article/pii/S0740547221001422?dgcid=author Patterns of Patient Discontinuation from Buprenorphine/Naloxone Treatment for Opioid Use Disorder: A Study of a Commercially Insured Population in Massachusetts]”, Journal of Substance Abuse Treatment, Vol. 131, December 2021, 108416.
 - Richard Paulsen, Alicia Sasser Modestino, Md Mahmudul Hasan, Md. Noor-E-Alam, Leonard Young and Gary Young, “[https://www.tandfonline.com/doi/abs/10.1080/00952990.2019.1674863?journalCode=iada20 Patterns of Buprenorphine/Naloxone Prescribing:  An Analysis of Claims Data from Massachusetts]”, The American Journal of Drug and Alcohol Abuse, 2019. doi.org/10.1080/00952990.2019.1674863
 
-=== Robust Matching Algorithms:
+=== Robust Causal Inference:
 - Md Saiful Islam and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2111.13800.pdf Feature Selection for Causal Inference from High Dimensional Observational Data with Outcome Adaptive Elastic Net]”, working paper, 2021.
 - Md Saiful Islam, M. S. Morshed and Md. Noor-E-Alam, “[https://arxiv.org/pdf/2012.12130.pdf A Computational Framework for Solving Nonlinear Binary
   Optimization Problems in Robust Causal Inference]”, Informs Journal on Computing (accepted), 2022.
@@ -61,6 +61,7 @@ Studies]”, working paper, 2015.
 - Md Saiful Islam, Md Mahmudul Hasan, Xiaoyi Wang, Hayley D. Germack, and Md. Noor-E-Alam,“[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fi2wh9tbykco3gob%2Fhealthcare-06-00054.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNFyic5CWWkP8XUiesEB1Q643W0zoA A Systematic Review on Healthcare Analytics: Application and Theoretical Perspective of Data Mining]”, Healthcare, Vol. 6, pp. 1-42, 2018.
 
 === Supply chain and Logistics:
+- Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“A Robust Optimization Framework for Two-Echelon Vehicle and UAV Routing for Post-Disaster Humanitarian Logistics Operations, 2022. ([https://arxiv.org/abs/2207.11879 Arxiv Preprint])
 - Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“Computational Approaches for Solving Two-Echelon Vehicle and UAV Routing Problems for Post-Disaster Humanitarian Operations, 2022. ([https://arxiv.org/abs/2001.06456 Arxiv Preprint]) ([https://zenodo.org/record/3610581 Online Data])
 - Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“[https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1806.00831&sa=D&sntz=1&usg=AFQjCNHoP3rHy1vouhRfG3aJZJBCgVZGLg A Column Generation Algorithm for Vehicle Scheduling and Routing Problems]”, Computers and Industrial Engineering, Vol. 130, pp. 222-236, 2019.
 - Tasnim Ibn Faiz and Md. Noor-E-Alam,“[https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fj4cfzy5f9x4cfl7%2FModels%2520for%2520Data%2520Center_Tasnim_Noor_Pre_Print.pdf%3Fdl%3D0&sa=D&sntz=1&usg=AFQjCNFJNEG0R0iaA2_468qnnwm-q1ydeg Data Center Supply Chain Conﬁguration Design: A Two-Stage Decision Approach]”, Socio-Economic Planning Sciences, [https://www.sciencedirect.com/science/article/abs/pii/S0038012117302501 org/10.1016/j.seps.2018.07.008], 2018.
