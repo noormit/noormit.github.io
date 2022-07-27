@@ -3,7 +3,7 @@
 
 == Research Projects:
 
-=== Large-scale Matching Algorithms for Robust Causal Inference:
+=== Robust Causal Inference for Large-Scale Observational Studies:
 We develop matching models and algorithms to make robust causal inference decisions from large-scale observational studies. Ensuring robustness in causal inference alone produces a computationally intensive optimization problem. With the usage of big data, such an optimization problem becomes even more difficult to solve. We design scalable computational approaches that can handle large scale optimization problems emerging in robust causal inference, and help make policy decisions in Healthcare, Manufacturing, and Service industries by leveraging the power of big data.
 ~~~
 {}{img_left}{flow_chart.png}{Flow_Chart}{900}
