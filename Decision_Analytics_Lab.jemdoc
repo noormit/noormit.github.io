@@ -29,22 +29,31 @@ This work has led us to identify the key areas (e.g., blue dashed box in the Fig
 
 *2.1.1 Personalized OUD Prescription*
 
-We are developing predictive models, leveraging large-scale healthcare data with AI, to proactively identify individuals who are at a heightened risk of developing Opioid Use Disorder (OUD). This predictive outcome is very useful in identifying the right treatment
+We develop predictive models, leveraging large-scale healthcare data with AI, to proactively identify individuals who are at a heightened risk of developing Opioid Use Disorder (OUD). This predictive outcome is very useful in identifying the right treatment
  options (e.g., medication and dosage), given that each medication comes with its own risks and benefits. We propose to use a multi-objective decision analytics framework, integrating AI, operations research (OR), and knowledge from domain experts. 
  This tool serves as a vital resource for healthcare practitioners, aiding them in generating personalized medications based on each patient's unique profile and risk of OUD.
 
-- Leveraging Artificial Intelligence (AI) to predict the risk of opioid use disorder among commercially insured opioid-naive patients.
+*2.1.2 Prescription Opioids Diversion Reduction Policy*
 
-*2.1.1 Personalized OUD Prescription*
+A critical problem with the opioid epidemic crisis is that many patients get prescribed too many opioids and don't use up every pill. Additionally, they don't dispose of the surplus drugs properly, potentially facilitating the diversion of prescription 
+opioids to secondary users and the black market. We propose to use AI to understand how the Opioid Use Disorder/Overdose (OUD/OD) crisis varies across different geographical locations, communities, and socioeconomic demographics. It also helps identify and rank the 
+critical regions. Subsequently, we propose to develop an optimization framework to identify optimal policies for allocating resources, such as installing disposal kiosks and providing motivating education/training and incentives. We also conducted a project to study 
+ [https://appam.confex.com/appam/2019/webprogram/Paper33148.html Incentive design] 
+for [https://www.povertyactionlab.org/initiative-projects/21 buyback program to reduce the supply of opioids to secondary users].  
 
-We are developing predictive models, leveraging large-scale healthcare data with AI, to proactively identify individuals who are at a heightened risk of developing Opioid Use Disorder (OUD). This predictive outcome is very useful in identifying the right treatment
- options (e.g., medication and dosage), given that each medication comes with its own risks and benefits. We propose to use a multi-objective decision analytics framework, integrating AI, operations research (OR), and knowledge from domain experts. 
- This tool serves as a vital resource for healthcare practitioners, aiding them in generating personalized medications based on each patient's unique profile and risk of OUD.
- 
-- A machine learning driven interpretable framework to predict premature discontinuation of the treatment for opioid use disorder. 
-- An investigation of patients’ and high-volume prescribers’ characteristics associated with the risk of discontinuing suboxone treatment. 
-- Empirical investigation of the patterns and clinical reasons for prescribing suboxone.
-- [https://appam.confex.com/appam/2019/webprogram/Paper33148.html Incentive design] for [https://www.povertyactionlab.org/initiative-projects/21 buyback program to reduce the supply of opioids to secondary users]. 
+*2.1.3 Optimal Policies for Improving Treatment Retention*
+
+OUD is a treatable condition, and one of the FDA-approved medications for OUD is buprenorphine/naloxone. Successful treatment with buprenorphine/naloxone is linked to reducing morbidity and mortality in OUD patients. Unfortunately, many OUD patients discontinue 
+buprenorphine treatment prematurely. Medication adherence during buprenorphine treatment is often inconsistent among patients. We propose to use AI, leveraging claim data, to identify predictive factors such as demographic information, addiction severity, comorbidities, 
+and treatment adherence patterns that contribute to treatment discontinuation. These models provide real-time risk assessments for individual patients, enabling healthcare providers to proactively intervene when the risk of discontinuation is high. 
+A decision analytics framework, integrating reinforcement learning, is proposed to develop to optimize resource allocation for better treatment retention and improved patient outcomes.
+
+*2.1.4 Optimal Allocation Policies of Overdose Prevention Toolkit*
+
+To mitigate the risk of fatal and non-fatal overdoses (OD), the availability of a prevention toolkit is a lifesaving measure. We propose to use artificial intelligence (AI) and operations research (OR) to construct a decision analytics framework for allocating these 
+lifesaving toolkits most effectively to the communities that require them the most. This process involves utilizing AI to analyze historical data, monitor real-time information sources, and create predictive models for identifying high-risk areas and individuals. 
+Subsequently, we optimize the distribution of the toolkit, offer training, and consider factors such as risk assessment, response time, and resource availability.
+
 
 *2.2 Analytics to inform healthcare policy making on hospital readmission*
 
