@@ -14,13 +14,17 @@ We analyze large-scale healthcare data by leveraging data mining and machine lea
 
 *Leveraging AI and OR to address the opioid addiction epidemic*
 
-The opioid overdose epidemic­­­­—a national public health emergency—takes an average of 130 lives in the US every day, 44% of which are attributed to the overdose of legally obtained prescription opioids. The overarching goal of our research is to develop a resilient community against such overdose and addiction epidemic.
+The opioid crisis in the United States has reached alarming proportions, as evidenced by the staggering statistics. In 2021, the number of individuals who lost their lives due to drug overdoses surpassed six times the figures recorded in 1999. Even more concerning, 
+the year 2021 witnessed a distressing 16% surge in drug overdose deaths compared to the previous year, with opioids implicated in over 75% of the nearly 107,000 fatalities. A deeper analysis of the crisis reveals a complex landscape: while opioid-related death rates
+ increased by over 15%, prescription opioid fatalities remained constant. On a more hopeful note, heroin-related deaths decreased by nearly 32%, but synthetic opioids (excluding methadone) saw a troubling rise of more than 22%. This crisis has become a critical 
+ issue demanding urgent attention and comprehensive solutions (Centers for Disease Control and Prevention, 2023). In Massachusetts, death rate increased to 33.5 per 100,000 people in 2022, 2.5% higher than in 2021 and 9.1% higher than the pre-pandemic peak in 2016. 
 
 Our research indicates that currently, physicians lack effective prescribing tools to help guide the informed and judicious prescribing of opioid analgesics. Moreover, many patients get prescribed with too many opioids of which they don’t use up completely, and surplus drugs are not disposed of properly. This facilitates the diversion of prescription opioids to secondary users and black markets.
 
-We, in particular, leverage state-of-the-art AI, statistical analysis, and operations research techniques to address a multitude of problems centering on the opioid crisis. The focal points of our research are depicted in the following diagram:
+My research team have been involved in multiple research projects pertinent to opioid crisis funded by a series of grants from the Centers for Disease Control and Prevention (CDC) in partnership with the Massachusetts Department of Public Health (MDPH) and an NSF CAREER. 
+This work has led us to identify the key areas (e.g., blue dashed box in the Figure) to address this multifaceted critical challenge and how to address by integrating AI and OR.  
 ~~~
-{}{img_left}{opioid_flow.png}{Opioid_Flow}{600}
+{}{img_left}{Opioid_Flow1.png}{Opioid_Flow1}{1000}
 ~~~
 *Our current projects are as follows:*
 
