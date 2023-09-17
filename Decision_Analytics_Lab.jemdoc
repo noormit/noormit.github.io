@@ -17,12 +17,12 @@ We analyze large-scale healthcare data by leveraging data mining and machine lea
 The opioid crisis in the United States has reached alarming proportions, as evidenced by the staggering statistics. In 2021, the number of individuals who lost their lives due to drug overdoses surpassed six times the figures recorded in 1999. Even more concerning, 
 the year 2021 witnessed a distressing 16 percent surge in drug overdose deaths compared to the previous year, with opioids implicated in over 75 percent of the nearly 107,000 fatalities. A deeper analysis of the crisis reveals a complex landscape: while opioid-related death rates
 increased by over 15 percent, prescription opioid fatalities remained constant. On a more hopeful note, heroin-related deaths decreased by nearly 32 percent, but synthetic opioids (excluding methadone) saw a troubling rise of more than 22 percent. This crisis has become a critical 
-issue demanding urgent attention and comprehensive solutions [Centers for Disease Control and Prevention]. In Massachusetts, death rate increased to 33.5 per 100,000 people in 2022, 2.5 percent higher than in 2021 and 9.1 percent higher than the pre-pandemic peak in 2016. 
+issue demanding urgent attention and comprehensive solutions (Centers for Disease Control and Prevention). In Massachusetts, death rate increased to 33.5 per 100,000 people in 2022, 2.5 percent higher than in 2021 and 9.1 percent higher than the pre-pandemic peak in 2016. 
 
-Our research indicates that currently, physicians lack effective prescribing tools to help guide the informed and judicious prescribing of opioid analgesics. Moreover, many patients get prescribed with too many opioids of which they don’t use up completely, and surplus drugs are not disposed of properly. This facilitates the diversion of prescription opioids to secondary users and black markets.
+Physicians lack effective prescribing tools to help guide the informed and judicious prescribing of opioid analgesics. Moreover, many patients get prescribed with too many opioids of which they don’t use up completely, and surplus drugs are not disposed of properly. This facilitates the diversion of prescription opioids to secondary users and black markets.
 
-To address this critical crisis, We have been involved in multiple research projects pertinent to opioid crisis funded by a series of grants from the Centers for Disease Control and Prevention (CDC) in partnership with the Massachusetts Department of Public Health (MDPH) and an NSF CAREER award. 
-This work has led us to identify the key areas (e.g., blue dashed box in the Figure) to address this multifaceted critical challenge and how to tackle it by leveraging sophisticated AI and OR techniques.  
+To address this critical crisis, we have been involved in multiple research projects pertinent to opioid crisis funded by a series of grants from the Centers for Disease Control and Prevention (CDC) in partnership with the Massachusetts Department of Public Health (MDPH) and an NSF CAREER award. 
+This work has led us to identify the following key areas (e.g., blue dashed box in the Figure) to address this multifaceted critical challenge and how to tackle it by leveraging sophisticated AI and OR techniques.  
 ~~~
 {}{img_left}{opioid_flow1.png}{opioid_flow1}{1000}
 ~~~
@@ -46,7 +46,7 @@ for [https://www.povertyactionlab.org/initiative-projects/21 buyback program to 
 OUD is a treatable condition, and one of the FDA-approved medications for OUD is buprenorphine or naloxone. Successful treatment with buprenorphine or naloxone is linked to reducing morbidity and mortality in OUD patients. Unfortunately, many OUD patients discontinue 
 buprenorphine treatment prematurely. Medication adherence during buprenorphine treatment is often inconsistent among patients. We propose to use AI, leveraging claim data, to identify predictive factors such as demographic information, addiction severity, comorbidities, 
 and treatment adherence patterns that contribute to treatment discontinuation. These models provide real-time risk assessments for individual patients, enabling healthcare providers to proactively intervene when the risk of discontinuation is high. 
-A decision analytics framework, integrating reinforcement learning, is proposed to develop to optimize resource allocation for better treatment retention and improved patient outcomes.
+A decision analytics framework is proposed to develop to optimize resource allocation for better treatment retention and improved patient outcomes.
 
 *2.1.4 Optimal Allocation Policies of Overdose Prevention Toolkit*
 
