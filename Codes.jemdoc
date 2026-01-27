@@ -11,10 +11,11 @@
   - - [https://github.com/saiful-NEU/Robust-causal-inference---McNemar-s-Test Code]
 - Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://arxiv.org/pdf/1812.02227.pdf A Robust Approach to Quantifying Uncertainty in Matching Problems of Causal Inference]”, working paper, 2018.
   - - [https://github.com/marcomorucci/robust-tests Code]
+- Sahil Shikalgar and Md. Noor-E-Alam, “[https://www.tandfonline.com/doi/full/10.1080/24725579.2025.2596393?src= A Two-Stage Interpretable Matching Framework for Causal Inference]”, IISE Transactions on Healthcare Systems Engineering,1-14.
+  - - [https://github.com/sahilshikalgarr/tim-matching Code]
+
 === Supply chain and Logistics:
 - Tasnim Ibn Faiz, Chrysaﬁs Vogiatzis and Md. Noor-E-Alam,“Robust Two Echelon Vehicle and Drone Routing for Post Disaster Humanitarian Operations”, Working paper, 2020. ([https://arxiv.org/abs/2001.06456 Arxiv Preprint]) ([https://zenodo.org/record/3610581 Online Data])
 
-=== Two Stage Interpretable Matching:
-- Sahil Shikalgar and Md. Noor-E-Alam, “[https://www.tandfonline.com/doi/full/10.1080/24725579.2025.2596393?src= A Two-Stage Interpretable Matching
-Framework for Causal Inference]”, IISE Transactions on Healthcare Systems Engineering,1-14.
-- - [https://github.com/sahilshikalgarr/tim-matching Code]
+
+
