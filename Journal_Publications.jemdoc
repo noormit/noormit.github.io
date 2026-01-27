@@ -4,11 +4,13 @@
 == Journal Publications:
 
 === Robust Causal Inference:
+- Sahil Shikalgar and Md. Noor-E-Alam, “[https://www.tandfonline.com/doi/full/10.1080/24725579.2025.2596393?src= A Two-Stage Interpretable Matching Framework for Causal Inference]”, IISE Transactions on Healthcare Systems Engineering,1-14.
+  - - [https://github.com/sahilshikalgarr/tim-matching Code]
 - Md Saiful Islam, M. S. Morshed and Md. Noor-E-Alam, “[https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1226 A Computational Framework for Solving Nonlinear Binary
   Optimization Problems in Robust Causal Inference]”, INFORMS Journal on Computing, 2022. ([https://arxiv.org/pdf/2012.12130.pdf preprint])
 - Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://pubsonline.informs.org/doi/10.1287/ijds.2022.0020 A Robust Approach to Quantifying Uncertainty in Matching Problems of Causal Inference]”, INFORMS Journal on Data Science, 2022 ([https://arxiv.org/pdf/1812.02227.pdf preprint]).
 - Md Saiful Islam, Sahil Shikalgar and Md. Noor-E-Alam, “[https://www.tandfonline.com/doi/full/10.1080/24725579.2024.2447715 A Two-Stage Feature Selection Approach for Robust Evaluation of Treatment Effects in High-Dimensional Observational Data]”, IISE Transactions on Healthcare Systems Engineering, 2024. ([https://arxiv.org/pdf/2111.13800.pdf preprint])
-- Tianyu Yang and Md. Noor-E-Alam, “Optimizing Feature Selection in Causal Inference: A Three-Stage Computational Framework for Unbiased Estimation”, working paper, 2024. ([https://arxiv.org/abs/2502.00501 preprint])
+- Tianyu Yang and Md. Noor-E-Alam, “Optimizing Feature Selection in Causal Inference: A Three-Stage Computational Framework for Unbiased Estimation”, IISE Transactions, 2026. ([https://arxiv.org/abs/2502.00501 preprint])
 - Md Saiful Islam, M. S. Morshed, Gary Young and Md. Noor-E-Alam, “[https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0223360&type=printable Robust policy evaluation from large-scale observational studies]”, PLoS ONE 14(10), 2019: e0223360. https://doi.org/10.1371/journal.pone.0223360
 - Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/12/5237.pdf Robust Nonparametric Testing for Causal Inference in Observational Studies]”, working paper, 2015.
 - Md. Noor-E-Alam and Cynthia Rudin, “[http://www.optimization-online.org/DB_FILE/2015/03/4821.pdf Robust Testing for Causal Inference in Observational Studies]”, working paper, 2015.
