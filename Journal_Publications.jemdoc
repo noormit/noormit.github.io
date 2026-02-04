@@ -4,8 +4,7 @@
 == Journal Publications:
 
 === Robust Causal Inference:
-- Sahil Shikalgar and Md. Noor-E-Alam, “[https://www.tandfonline.com/doi/full/10.1080/24725579.2025.2596393?src= A Two-Stage Interpretable Matching Framework for Causal Inference]”, IISE Transactions on Healthcare Systems Engineering,1-14.
-  - - [https://github.com/sahilshikalgarr/tim-matching Code]
+- Sahil Shikalgar and Md. Noor-E-Alam, “[https://www.tandfonline.com/doi/full/10.1080/24725579.2025.2596393?src= A Two-Stage Interpretable Matching Framework for Causal Inference]”, IISE Transactions on Healthcare Systems Engineering, 1-14.
 - Md Saiful Islam, M. S. Morshed and Md. Noor-E-Alam, “[https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1226 A Computational Framework for Solving Nonlinear Binary
   Optimization Problems in Robust Causal Inference]”, INFORMS Journal on Computing, 2022. ([https://arxiv.org/pdf/2012.12130.pdf preprint])
 - Marco Morucci, Md. Noor-E-Alam and Cynthia Rudin, “[https://pubsonline.informs.org/doi/10.1287/ijds.2022.0020 A Robust Approach to Quantifying Uncertainty in Matching Problems of Causal Inference]”, INFORMS Journal on Data Science, 2022 ([https://arxiv.org/pdf/1812.02227.pdf preprint]).
